@@ -1,0 +1,20 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.vegetable-h3 ,.add-knopka{
+    background: rgba(39, 76, 91, 1);
+}
+.brokkoli-h2 ,.brokkoli-p{
+    color: rgba(39, 76, 91, 1);
+}
+.div-1-brokkoli {
+    background: rgba(249, 248, 248, 1);
+}
+.btn,.btn-korzinka-ohiri{
+    background: rgba(39, 76, 91, 1);
+}
+.btn-korzinka-ohiri:hover{
+    box-shadow: blue 2px 2px 20px 8px;
+}
