@@ -2,7 +2,7 @@
   "name": "to do list exam",
   "version": "1.0.0",
   "description": "",
-  "main": "exam_hard.js",
+  "main": "index.hard.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
